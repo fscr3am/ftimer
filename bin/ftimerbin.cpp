@@ -2,8 +2,6 @@
 #include <windows.h>
 using namespace std;
 
-//  Bu bir timer'dır.
-
 main(void){
 int sec=0;
 int min=0;
